@@ -22,3 +22,12 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+
+Topic: 
+1.bind text
+2.bindhtml
+3.bindclass
+4.bindstyle 
+5.conditional rendering
